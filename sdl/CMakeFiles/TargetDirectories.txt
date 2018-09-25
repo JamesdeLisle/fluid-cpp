@@ -1,3 +1,0 @@
-/home/james/prog/cell/exp/cpp/CMakeFiles/edit_cache.dir
-/home/james/prog/cell/exp/cpp/CMakeFiles/rebuild_cache.dir
-/home/james/prog/cell/exp/cpp/CMakeFiles/01_hello_SDL.dir
