@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/james/prog/cell/exp/cpp",
+  "command": "/usr/bin/c++    -I/usr/local/include/SDL2    -o CMakeFiles/01_hello_SDL.dir/01_hello_SDL.cpp.o -c /home/james/prog/cell/exp/cpp/01_hello_SDL.cpp",
+  "file": "/home/james/prog/cell/exp/cpp/01_hello_SDL.cpp"
+}
+]
